@@ -35,7 +35,7 @@ body {
   box-sizing: inherit;
   background-color: #fff;
   height: fit-content;
-  box-shadow: 0px 3px 10px #808080;
+  box-shadow: 0 3px 10px #808080;
 }
 
 .blog1 h1 {
@@ -209,7 +209,6 @@ body {
 .one:hover {
   background-color: #808080;
 }
-
 
 .one header {
   font-size: 30px;
