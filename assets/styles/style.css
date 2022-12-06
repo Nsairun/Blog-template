@@ -157,6 +157,13 @@ body {
 	text-align: left;
 }
 
+hr {
+	background-color: #000;
+	height: 1px;
+	width: 100%;
+	margin: none;
+}
+
 .myname img {
 	width: 100%;
 }
@@ -175,14 +182,20 @@ body {
   margin-top: 4%;
 }
 
-.post1 {
-	background-color: #a39e9e;
+.post h1 {
+	background-color: #d3d3d3;
 	background-size: 100%;
 	margin: auto;
 }
 
 .post1 h1 {
 	margin-left: 5%;
+}
+
+.span1 {
+	background-color: #000;
+	color: #fff;
+	padding: 5px 8px;
 }
 
 .post2 {
@@ -426,6 +439,4 @@ body {
 		margin: 2%;
 		margin-left: 4%;
 	}
-
-
 }
