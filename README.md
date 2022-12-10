@@ -6,8 +6,7 @@ this is a project about a blog-template
 -This is a blog-template project amongst 7 projects given to i and my mates as an assignment to test our skills on HTML and CSS
 
 ## App
-
-
+! [home page](assets/images/Screenshot%20(1).png)
 ### Built With
 
 - HTML
